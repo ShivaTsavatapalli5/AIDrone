@@ -21,7 +21,6 @@ The rescue drone autonomously surveys a disaster area based on GPS boundaries pr
 - **Return to Launch (RTL)**: The drone automatically returns to the launch point upon completing the grid survey.
 
 ## Hardware Components
-- **Drone Frame**
 - **Orange Cube Plus Flight Controller**
 - **HERE+ GPS for precise positioning**
 - **Raspberry Pi 4B+ for onboard processing**
