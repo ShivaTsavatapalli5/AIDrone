@@ -35,6 +35,7 @@ The rescue drone autonomously surveys a disaster area based on GPS boundaries pr
 2. **Raspberry Pi Setup**:
    - Install Raspberry Pi OS and necessary libraries.
    - Clone this repository and install required dependencies:
+   - Note:- Make Sure that git for windows installed
      ```bash
      git clone https://github.com/ShivaTsavatapalli5/AIDrone.git
      cd AIDrone
